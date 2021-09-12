@@ -1,4 +1,4 @@
-package test
+package testmod
 
 func Ping() string {
 	return "Pong"
